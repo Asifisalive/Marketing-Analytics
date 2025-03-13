@@ -2,7 +2,7 @@
 ## Project Overview
 This project aims to analyze customer data to derive insights for enhancing marketing strategies. The analysis includes data preprocessing, visualization, and modeling to understand customer behavior and demographics.
 
-##Key Steps
+## Key Steps
 ### 1.Data Loading and Preprocessing
 
   Loaded dataset from an Excel file.
