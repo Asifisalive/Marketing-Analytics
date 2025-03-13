@@ -41,10 +41,15 @@ This project aims to analyze customer data to derive insights for enhancing mark
 
 ## Technologies Used
   Python 
+ 
   pandas
+  
   numpy
+ 
   matplotlib
+  
   seaborn
+
   scikit-learn
 
 ## How to Use
